@@ -2,7 +2,7 @@
 
 ## 專案畫面
 
-![image](./public/image/restaurant_list_image.png)
+![image](./public/image/restaurant_list_image.jpg)
 
 ## 專案介紹
 
