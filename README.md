@@ -19,10 +19,13 @@
 
 1. 請先確認有安裝 node.js 與 npm
 2. 將專案 clone 到本地
+   ```bash
+   https://github.com/wutungtung/restaurantList
+   ```
 3. 在本地開啟之後，透過終端機進入資料夾，輸入：
 
    ```bash
-   npm install
+   npm install express@4.16.4 express-handlebars@3.0.0
    ```
 
 4. 安裝完畢後，繼續輸入：
